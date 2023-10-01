@@ -1,6 +1,6 @@
 # Custom OnBoarding
 
-This project is related to Custom Boarding of user
+This project is related to the Custom onBoarding of users.
 
 ## Table of Contents
 
@@ -9,23 +9,17 @@ This project is related to Custom Boarding of user
 
 ## Installation
 
-1. Clone the repository.
+1. Clone the repository:
 
-   ```shell
    git clone https://github.com/harshsri28/node-Custom-Onboarding.git
 
-   ```
+2. Then Install Dependencies
 
-2. install the dependencies
-
-```shell
-npm install
-```
+   npm i
 
 ## Usage
 
-3. To Start
+1. To run the project
 
-   ```shell
    npm run dev
-   ```
+
